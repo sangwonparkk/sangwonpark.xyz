@@ -1,3 +1,3 @@
 # sangwonpark.xyz
 
-This is for my personal website.
+- Hosted on Netlify
